@@ -1,7 +1,7 @@
-package day0
-public class JamesBond
+package day0;
+public class JamesBond{
   public static void main (String [] args){
-  System.out.println("JAmes Bond hacked my project")
+  System.out.println("JAmes Bond hacked my project");
     
   }
 }
